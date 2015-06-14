@@ -1,0 +1,22 @@
+A Programming Manifesto
+
+Passion: I love programming. I love debugging. I love solving puzzles. Interesting work makes me happy. I want to feel like I am playing when I work. 
+
+Learning: I know a lot, but I don’t know everything. If I don’t know it, I can learn it. I can learn on my own, but I want to be trained professionally when this is an option.
+
+Quality: I want to be working on the best software possible. I want to be proud of the products my team releases. It is usually well worth it to do things right the first time.
+  
+Trust: I can be trusted with your proprietary software and information about your product. I will be careful about what I download and upload using company equipment. 
+
+Time: I value my time and your investment. When I am working, I want an environment that allows me to focus and be fully engaged in what I am doing. 
+
+Communication: Whether it is in person, over a remote connection, or through documentation, it is important to be clear and deal with the important issues.
+
+Collaboration: When coming up with new ways to solve problems, reviewing code, or proofreading public documents, teamwork makes for better output. 
+
+Maintenance: Up-to-date software and equipment save time and effort. Technical debt hinders progress. We should take care of the things we have invested in.
+
+
+© 2015 K. Hendrickson (Pony Taylor)
+
+
